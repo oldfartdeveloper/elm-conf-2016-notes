@@ -1,6 +1,6 @@
 # elm-conf-2016-notes
 
-These are Scott Smith's (@_ofd - Old Fart Developers) notes and perceptions 
+These are Scott Smith's (@_ofd - Old Fart Developer) notes and perceptions 
 for the very first Elm-lang conference on Sept 15, 2016.
 
 # Overview
@@ -15,6 +15,10 @@ might be hard to identify logical errors in other languages.
 * Being applied to varied browser client tasks.
 * Exciting things coming down the line vis-a-vis debugging.
 * Explanation and celebration of the Elm community's practices.
+
+# My Personal Objectives
+
+*todo*
 
 # Sessions
 
