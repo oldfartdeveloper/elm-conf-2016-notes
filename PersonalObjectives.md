@@ -22,7 +22,7 @@ So I set the following goals for my participation this time:
 
 In order of importance.
 
-1. Introduce myself to the **[BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) (Evan) and Richard Feldman
+1. Introduce myself to the **[BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life)** (Evan) and Richard Feldman
 1. Talk (a lot) with the other attendees
 1. Write about my experience (and publish it for gawds' sakes)
 1. Learn from the sessions
@@ -135,8 +135,8 @@ Since the
 ## Talk (a lot) with the other attendees
 
 This was a constant focus during breaks and lunch; I probably talked w/ at 
-least 20 different people.  It became easier as the day went on, and I found
- out a lot of great stuff!
+least 20 different people.  It became easier as the day went on, I made 
+some really interesting friends, and I found out a lot of great stuff!
  
 ## Write about my experience (and publish it for gawds' sakes)
 
