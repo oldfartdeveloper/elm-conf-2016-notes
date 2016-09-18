@@ -12,13 +12,16 @@ joy because:
 * If it compiles, there will be no Elm-caused runtime errors.
 * Elm's functional language provides flexible modelling to preclude what 
 might be hard to identify logical errors in other languages.
-* Being applied to varied browser client tasks.
-* Exciting things coming down the line vis-a-vis debugging.
+* Exciting things coming down the line vis-a-vis debugging and other "cool" 
+features.
 * Explanation and celebration of the Elm community's practices.
 
 # My Personal Objectives
 
-*todo*
+* **[Here](PersonalObjectives.md)**.  For those of you who are interested in
+ a more personal testamony of what I tried to accomplish at this conference 
+ and how well I felt I succeeded.  Hint: I'm an old introvert; I've hated to
+  "put myself out there", and this time I wanted to "not do that anymore".
 
 # Sessions
 
